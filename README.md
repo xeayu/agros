@@ -9,7 +9,7 @@ Start your private cloud in seconds! No git clone needed.
 
 ```bash
 # 1. Download the setup file 📥
-wget -O docker-compose.yml https://raw.githubusercontent.com/xeayu/agros/main/docker-compose.yml
+wget -O docker-compose.yml https://code.xeayu.com/dev/agros/raw/branch/main/docker-compose.yml
 
 # 2. Start the cloud ✨
 docker compose up -d
